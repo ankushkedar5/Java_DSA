@@ -180,5 +180,4 @@ public class Lecture_10 {
         obj.checkAscending(numbers, size);
         sc.close();
     }
-    // git commit -m "Add array fundamentals and problem solving"
 }
